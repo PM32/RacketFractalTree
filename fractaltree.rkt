@@ -38,5 +38,5 @@
 (turn 90) ; mire arriba
 (move -200) ; retroceda un poco
 (tree treecount) ; dibuje :-)
-;(save-turtle-bitmap "tree.png" 'png) ; exporte
+(save-turtle-bitmap "tree.png" 'png) ; exporte
 treecount
